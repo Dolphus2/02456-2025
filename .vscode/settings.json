@@ -1,0 +1,4 @@
+{
+    "jupyter.logging.level": "debug",
+    "python.logging.level": "debug"
+}
